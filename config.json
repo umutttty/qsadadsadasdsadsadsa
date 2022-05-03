@@ -1,0 +1,9 @@
+{
+	"ip":"game3.falix.cc:61720",
+	"port": 61720,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 1234@@ASLA 1234@@ASLA",
+	"login-cmd":"/login 1234@@ASLA"
+}
